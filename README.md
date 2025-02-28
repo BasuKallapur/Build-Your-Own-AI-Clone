@@ -18,8 +18,7 @@ Link: https://build-your-own-ai-clone-multidocrag.streamlit.app/
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/MultiFormat-RAG.git
-cd MultiFormat-RAG
+git clone https://github.com/BasuKallapur/Build-Your-Own-AI-Clone.git
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -38,7 +37,6 @@ streamlit run app.py
 ```sh
 MultiFormat-RAG/
 │── app.py               # Main Streamlit app
-│── multi_format_rag.py  # MultiFormatRAG class implementation
 │── requirements.txt     # Required dependencies
 │── temp_docs/           # Temporary folder for uploaded documents
 │── README.md            # Project Documentation
